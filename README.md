@@ -9,4 +9,4 @@ Today I Learned in Goorm (study note)
 | 4주차 | 2022/08/01 ~ 2022/08/05 | [클라우드를 위한 리눅스 시스템 관리](https://github.com/root-devvoo/TIL_Goorm/tree/main/4%EC%A3%BC%EC%B0%A8) |
 | 5주차 | 2022/08/08 ~ 2022/08/12 | [웹 서비스 구축](https://github.com/root-devvoo/TIL_Goorm/tree/main/5%EC%A3%BC%EC%B0%A8) |
 | 6주차 | 2022/08/16 ~ 2022/08/19 | [AWS 기초 아키텍처 설계](https://github.com/root-devvoo/TIL_Goorm/tree/main/6%EC%A3%BC%EC%B0%A8) |
-| 7주차 | 2022/08/22 ~ 2022/08/26 | 코드형 인프라를 위한 Ansible 활용(https://github.com/root-devvoo/TIL_Goorm/tree/main/7%EC%A3%BC%EC%B0%A8) |
+| 7주차 | 2022/08/22 ~ 2022/08/26 | [코드형 인프라를 위한 Ansible 활용](https://github.com/root-devvoo/TIL_Goorm/tree/main/7%EC%A3%BC%EC%B0%A8) |
