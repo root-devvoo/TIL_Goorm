@@ -11,3 +11,4 @@ Today I Learned in Goorm (study note)
 | 6주차 | 2022/08/16 ~ 2022/08/19 | [AWS 기초 아키텍처 설계](https://github.com/root-devvoo/TIL_Goorm/tree/main/6%EC%A3%BC%EC%B0%A8) |
 | 7주차 | 2022/08/22 ~ 2022/08/26 | [코드형 인프라를 위한 Ansible 활용](https://github.com/root-devvoo/TIL_Goorm/tree/main/7%EC%A3%BC%EC%B0%A8) |
 | 8주차 | 2022/08/29 ~ 2022/09/02 | [컨테이너 기술을 이용한 애플리케이션 운영](https://github.com/root-devvoo/TIL_Goorm/tree/main/8%EC%A3%BC%EC%B0%A8) |
+| 9주차 | 2022/09/05 ~ 2022/09/08 |             Kubernetes 이해 및 애플리케이션 운영             |
