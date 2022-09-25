@@ -14,3 +14,4 @@ Today I Learned in Goorm (study note)
 | 9주차  | 2022/09/05 ~ 2022/09/08 | [Kubernetes 이해 및 애플리케이션 운영](https://github.com/root-devvoo/TIL_Goorm/tree/main/9%EC%A3%BC%EC%B0%A8) |
 | 10주차 | 2022/09/12 ~ 2022/09/16 | [Kubernetes 패키지 및 모니터링 시스템 구축](https://github.com/root-devvoo/TIL_Goorm/tree/main/10%EC%A3%BC%EC%B0%A8) |
 | 11주차 | 2022/09/19 ~ 2022/09/23 | [컨테이너 운영을 위한 CI/CD 구축](https://github.com/root-devvoo/TIL_Goorm/tree/main/11%EC%A3%BC%EC%B0%A8) |
+| 12주차 | 2022/09/26 ~ 2022/09/30 | Kubernetes 세미프로젝트 / CKA 자격증 대비 문제 풀이 |
